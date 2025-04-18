@@ -10,22 +10,6 @@ To build a robust classification model that predicts whether a customer will chu
 
 Customer churn is a major issue in the telecom industry, leading to significant revenue losses. The aim is to proactively identify high-risk customers and implement retention strategies using machine learning.
 
-## Project Structure
-
-telecom-churn-prediction/ 
-├── data/ 
-│ └── telecom_churn.csv 
-├── notebooks/ 
-│ └── 01_EDA_and_Preprocessing.ipynb 
-│ └── 02_Modeling_and_Evaluation.ipynb 
-├── models/ 
-│ └── best_model.pkl 
-├── scripts/ 
-│ └── preprocess.py 
-│ └── train_model.py 
-├── requirements.txt 
-└── README.md
-
 ## Workflow
 
 1. Data Collection  
