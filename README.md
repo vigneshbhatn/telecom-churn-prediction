@@ -74,3 +74,6 @@ Typical columns include:
 git clone https://github.com/your-username/telecom-churn-prediction.git
 cd telecom-churn-prediction
 pip install -r requirements.txt
+streamlit run app.py
+```
+After this upload the input.csv file from the Data folder
