@@ -63,9 +63,9 @@ Typical columns include:
 
 ## Results
 
-- Best-performing model: XGBoost (or whichever is chosen)  
-- Accuracy: [Update based on evaluation]  
-- ROC-AUC: [Update based on evaluation]  
+- Best-performing model: XGBoost   
+- Accuracy: 91%  
+- ROC-AUC: 0.86  
 - Class imbalance handled using [SMOTE/other technique]
 
 ## Installation
